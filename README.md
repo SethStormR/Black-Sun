@@ -10,6 +10,12 @@ Screenshots
 
 ![Banner](https://github.com/user-attachments/assets/56078897-461b-4809-821c-07b74793955c)
 
-![1](https://github.com/user-attachments/assets/fffa8a2f-f62c-4066-8fec-3f0563d56cbe)
 
-![2](https://github.com/user-attachments/assets/02d1e871-2119-4b32-9c4c-f44c8337ad71)
+![Screenshot From 2025-02-26 04-05-04](https://github.com/user-attachments/assets/9c95ef7c-1096-4d8d-9545-ed9bc2c35f5d)
+
+![Screenshot From 2025-02-26 04-06-29](https://github.com/user-attachments/assets/ca6b24be-d827-49e4-bd65-f1a11a7cee17)
+
+![Screenshot From 2025-02-26 04-07-12](https://github.com/user-attachments/assets/adcf4f79-d38e-4e9d-b910-e0f6ed9eba70)
+
+![Screenshot From 2025-02-26 04-07-34](https://github.com/user-attachments/assets/a8c3319a-bde0-4bf7-93bf-b367567e226f)
+
