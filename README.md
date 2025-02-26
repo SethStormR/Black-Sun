@@ -1,4 +1,4 @@
-# Black-Sun
+![Banner](https://github.com/user-attachments/assets/01aa7e05-c0ce-47b4-ad2c-499d20a59f46)# Black-Sun
 ![BlackSunLogo](https://github.com/user-attachments/assets/29c9b3ca-72d2-4038-9f33-f99af880ddd6)
 
 Black Sun is an icon theme for Cosmic DE and Gnome.
@@ -8,7 +8,7 @@ Black Sun is an icon theme for Cosmic DE and Gnome.
 Screenshots
 --
 
-![Banner](https://github.com/user-attachments/assets/56078897-461b-4809-821c-07b74793955c)
+![Banner](https://github.com/user-attachments/assets/a40f1307-64d4-4bc6-85ff-125a177ed46e)
 
 
 ![Screenshot From 2025-02-26 04-05-04](https://github.com/user-attachments/assets/9c95ef7c-1096-4d8d-9545-ed9bc2c35f5d)
