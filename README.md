@@ -12,6 +12,8 @@ Solus (Budgie DE)
 
 Solus (XFCE)
 
+Solus (KDE)
+
 Zorin OS (Gnome)
 
 PopOS (Cosmic DE)
