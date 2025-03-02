@@ -10,7 +10,8 @@ Black Sun is an icon theme for Cosmic DE, XFCE Gnome and Budgie DE.
 
 
 
-Tested on:
+Tested on
+--
 
 Solus (Gnome)
 
