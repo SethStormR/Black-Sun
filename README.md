@@ -10,7 +10,7 @@ Explaination
 
 **Uniformed icon set** = Same color tag on all the icons.
 
-**No Tags** = No Color tags on the icons
+**No Tags icon set** = No Color tags on the icons
 
 
 
