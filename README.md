@@ -1,6 +1,6 @@
 ![BlackSunLogo](https://github.com/user-attachments/assets/29c9b3ca-72d2-4038-9f33-f99af880ddd6)
 
-Black Sun is an icon theme for Cosmic DE, XFCE Gnome and Budgie DE.
+Black Sun is an icon theme for Cosmic DE, XFCE, Gnome, Cinnamon and Budgie DE.
 
 **NOTE**: KDE/PLASMA support is experimental. Known issues are messed up notification area and preferences/settings icons.
 
@@ -29,6 +29,7 @@ Zorin OS (Gnome)
 
 PopOS (Cosmic DE)
 
+Mint (Cinnamon)
 
 Screenshots
 --
