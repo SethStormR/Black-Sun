@@ -5,11 +5,12 @@ Black Sun is an icon theme for Cosmic DE, XFCE, Gnome, KDE, Cinnamon and Budgie 
 **NOTE**: KDE/PLASMA support needs the Black Sun helping package to solve the tray icons problem.
 Open its index file and edit Inherits (line 3) to which theme it shall point to.
 
-**Optional**: Install Papirus icon theme: https://www.pling.com/p/1166289/ as Black Sun icon theme can draw from Papirus' actions icons. It looks best that way. :)
-
 Black Sun - No Tags
 
 Black Sun - Uniformed
+
+**Optional**: Install Papirus icon theme: https://www.pling.com/p/1166289/ as Black Sun icon theme can draw from Papirus' actions icons. It looks best that way. :)
+
 
 Explaination
 --
